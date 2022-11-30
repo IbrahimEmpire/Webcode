@@ -1,0 +1,31 @@
+body{
+    background-color: skyblue;
+}
+#first{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px ;
+    margin-left: 100px;
+    background-color: white;
+    height: 50px;
+    width: 500px;
+    box-shadow: 
+    12px 12px 12px 12px violet;
+    /* align-content: space-between; */
+}
+
+.second{
+    display: block;
+}
+#txt{
+    display: block;
+    width: 500px;
+    text-align: center;
+}
+.sho{
+    margin-top: 50px;
+}
+#ino{
+    margin-top: 5000px;
+    padding-left: 30px;
+}
